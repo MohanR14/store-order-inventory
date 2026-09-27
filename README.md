@@ -347,4 +347,4 @@ The implementation covers the functional and technical requirements of the Store
 * Purchase-time item price/tax snapshots.
 * Queued confirmation simulation via `afterCommit()`.
 * Clean API endpoints and single-page dashboard UI.
-* Complete automated feature test suite (20 tests passed).
+* Complete automated feature test suite (18 tests passed).
